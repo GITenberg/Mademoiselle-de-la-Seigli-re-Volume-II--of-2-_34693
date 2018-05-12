@@ -1,0 +1,27 @@
+_repo: Mademoiselle-de-la-Seigli-re-Volume-II--of-2-_34693
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sandeau, Jules
+    birthdate: 1811
+    deathdate: 1883
+    gutenberg_agent_id: '25629'
+    url: http://www.gutenberg.org/2009/agents/25629
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2010-12-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34693'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction'
+title: Mademoiselle de la Seiglière, Volume 2 (of 2)
+url: http://www.gutenberg.org/ebooks/34693
